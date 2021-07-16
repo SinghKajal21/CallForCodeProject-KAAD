@@ -1,6 +1,7 @@
 #KAAD
 
 Natural disasters can have a life-altering impact on the individuals and families fortunate enough to survive them. The effect of natural disasters can be felt at the community, city and state level, or many times can impact an entire country. Natural disasters have huge environmental impacts as well as as severe affect on human communities.
+
 Natural disasters cause destruction of property, loss of financial resources, and personal injury or illness. The loss of resources, security and access to shelter can lead to massive population migrations in lesser-developed countries.
 Natural disasters – such as hurricanes, cyclones, earthquakes, mudslides, floods, wildfires, volcanic eruptions and weather events like extreme droughts and monsoons – are likely increasing in frequency due to climate change. These events bring with them a host of issues, including humanitarian, public health, environmental and infrastructural problems.
 
