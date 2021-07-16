@@ -1,4 +1,4 @@
-#KAAD
+
 
 Natural disasters can have a life-altering impact on the individuals and families fortunate enough to survive them. The effect of natural disasters can be felt at the community, city and state level, or many times can impact an entire country. Natural disasters have huge environmental impacts as well as as severe affect on human communities.
 
