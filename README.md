@@ -1,4 +1,4 @@
-
+# KAAD
 
 Natural disasters can have a life-altering impact on the individuals and families fortunate enough to survive them. The effect of natural disasters can be felt at the community, city and state level, or many times can impact an entire country. Natural disasters have huge environmental impacts as well as as severe affect on human communities.
 
@@ -12,3 +12,6 @@ To overcome this situation together we have to help eachother in the time of nee
 Whether you are fundraising for a cause you care about or for a health emergency, creating a crowdfunding campaign is easy and free on KAAD Association. Launch your fundraiser and share with family and friends for help and support for your cause.
 
 Our crowdfunding platform brings both convenience and choice for fundraisers and donors in a safe, high-trust environment. 
+
+## ROADMAP![img1](https://user-images.githubusercontent.com/87469894/126026561-c81cd207-741d-4f4a-affa-bb5fac63c479.jpg)
+## TEAM MEMBERS
