@@ -17,11 +17,11 @@ Our crowdfunding platform brings both convenience and choice for fundraisers and
 
 link of demo video of [KAAD ASSOCIATION](  https://youtu.be/I_hBw4BD7nI )
 #### TECHNOLOGIES USED 
-•IBMCLOUD GITLAB <br/>
-•BRACKET
+• IBMCLOUD GITLAB <br/>
+• BRACKET
 #### LANGUAGE USED
-•HTML<br/>
-•CSS
+• HTML<br/>
+• CSS
 ## TEAM MEMBERS
 ![0001-4443669484_20210717_131402_0000](https://user-images.githubusercontent.com/87469894/126030332-867ebb88-7e17-4af9-9841-60d322792fef.png)
 
