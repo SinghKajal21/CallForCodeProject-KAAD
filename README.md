@@ -14,5 +14,8 @@ Whether you are fundraising for a cause you care about or for a health emergency
 Our crowdfunding platform brings both convenience and choice for fundraisers and donors in a safe, high-trust environment. 
 
 ## ROADMAP![img1](https://user-images.githubusercontent.com/87469894/126026561-c81cd207-741d-4f4a-affa-bb5fac63c479.jpg)
+
 link of demo video of [KAAD ASSOCIATION](  https://youtu.be/I_hBw4BD7nI )
 ## TEAM MEMBERS
+![0001-4443669484_20210717_131402_0000](https://user-images.githubusercontent.com/87469894/126030332-867ebb88-7e17-4af9-9841-60d322792fef.png)
+
