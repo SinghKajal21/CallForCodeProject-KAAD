@@ -1,0 +1,138 @@
+<html>
+<title>
+    OUR TEAM</title>
+    <head>
+    
+    <style>
+        *{
+            box-sizing: border-box;
+            font-family: sans-serif;
+        }
+        html,body{
+            width: 100%;
+            height: 100%;
+            display: flex;
+            justify-content: center;
+            align-content: center;
+            background: #222;
+        }
+        .hovereffect{display: flex;
+        width: 70%;
+        justify-content: space-around;
+        }
+        .card{
+            width: 280px;
+            height: 360px;
+            padding: 2rem 1rem;
+            background: #fff;
+            position: relative;
+            display: flex;
+            align-items: flex-end;
+            box-shadow: 0px 7px 10px rgba(0,0,0.5);
+            transition: 0.5s ease-in-out;
+            margin-top: 200px;
+            
+        }
+        .card:hover{
+            transform: translate(20px);
+        }
+        .card:before{
+            content: "";
+            position: absolute;
+            top: 0;
+            left: 0;
+        display: block;
+        width: 100%;
+        height: 100%;
+        background: linear-gradient(to bottom, rgba(0,176,155,0.5),rgba(150,201,65,1));
+        z-index: 2;
+        transition: 0.5s all;
+        opacity: 0;
+        }
+        .card:hober:before{
+            opacity: 1;
+            
+        }
+        .card img{
+            width: 100%;
+            height: 100%
+         obeject-fit: cover;
+            position: absolute;
+            top: 0;
+            left: 0;
+        }
+        .card .home{
+            position: relative;
+            z-index: 3;
+            color: #fff;
+            opacity: 0;
+            transform: translate(30px);
+            transition: 0.5s all;
+            }
+        .card:hover .home{
+            opacity: 1;
+            transform: translate(0px);
+            }
+        .card.home h1{
+            margin:0;
+        }
+        .card.home p{
+            letter-spacing: 1px;
+            font-size: 15px;
+            margin-top: 8px;
+            margin-bottom: 20px;
+        }
+        .card .home .xyz{
+            text-decoration: none;
+            padding: 0.5s 1rem;
+            background: #fff;
+            color: #000;
+            font-size: 14px;
+            font-weight: bold;
+            cursor: pointer;
+            transition: 0.4s ease-in-out;
+        }
+        .card .home .xyz:hover{
+            box-shadow: 0px 7px 10px rgba(0,0,0,0.5);
+        }
+        </style>
+    
+    </head>
+<body> 
+    <div class="hovereffect">
+        <div class="card"> 
+            <img src="images/arpan.jpg">
+            <div class="home">
+                <h1>Arpan</h1>
+            <p>Student, B.tech CSE</p>
+            <a href="#" class="xyz">read more </a> 
+        </div> 
+        </div>
+        <div class="card">
+            <img src="images/durga.jpeg">
+            <div class="home">
+            <h1>Durga</h1>
+            <p>Student B.tech CSE</p>
+            <a href="" class="xyz">readmore</a>
+            </div>
+        </div>
+        <div class="card">
+        <img src="images/abhishek.jpg">
+        <div class="home">
+            <h1>Abhishek</h1>
+            <p>Student B.tech CSE</p>
+            <a href="#" class="xyz">read more</a>
+            </div>
+        </div>
+        <div class="card">
+        <img src="images/kajal.jpg">
+        <div class="home">
+            <h1>Kajal</h1>
+            <p>Student, B.tech CSE</p>
+            <a href="#" class="xyz">read more</a>
+            </div>
+        </div>
+    </div>
+        
+                              </body>
+</html>

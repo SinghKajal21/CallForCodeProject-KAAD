@@ -1,0 +1,94 @@
+<!doctype html>
+<html>
+<head>
+	<title>Submit Detail</title>
+         <style>
+             body {font-family: Arial, Helvetica, sans-serif;}
+             * {box-sizing: border-box;}
+             
+             input[type=text], select, textarea {
+                           width: 100%;
+                           padding: 12px;
+                           border: 1px solid #ccc;
+                           border-radius: 4px;
+                           box-sizing: border-box;
+                           margin-top: 6px;
+                           margin-bottom: 16px;
+                           resize: vertical;
+                   }
+           input[type=submit]{
+               background-color:lightpink
+               color:white;
+               padding:12px20px;
+               boder:none;
+               border-radius:4px;
+               cursor:pointer;
+}
+input[type=submit]:hover{
+      background-color:black;
+}
+
+    .container{
+      border-radius:5px;
+      background-color:lightgray;
+      padding:20px;
+}
+
+
+         </style>
+</head>
+<body>
+             <center>
+	<h1>Submit your detail</h1>
+            </center>
+            <form class="container">
+                       <label for="FirstName">First Name</label>
+             <input type="text" name="FirstName" required maxlength="15">
+                
+             <label for="LastName">Last Name</label>
+             <input type="text" name="LastName" required maxlength="15">
+                
+             <label for="Country">Enter your country name</label>
+             <input type="text" name="country" required maxlength="15"> 
+                
+                 <label for="state">state</label>
+             <input type="text" name="state" required maxlength="15">
+                
+             <label for="city">citys</label>
+             <input type="text" name="city" required maxlength="15">
+             
+             
+                
+                 
+             <label for="Query">Query</label>
+             <textarea name="Query" required maxlength="100"></textarea>
+             
+            
+                 
+                <br>
+                <label for="Contact">Enter your contact number</label>
+             <input name="number" required maxlength="12">                 
+                
+                
+                
+              <br> <br>
+                <input type="submit" value="Submit">
+                
+ 
+           </form>
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
